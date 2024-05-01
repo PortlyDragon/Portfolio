@@ -18,7 +18,10 @@ html,body{
     display: inline;
     color: white;
 }
-.nav a{
+.Owner-name {
+    color: white;
+}
+.nav a {
     display: inline-block;
     padding: .5em;
     text-decoration: none;
