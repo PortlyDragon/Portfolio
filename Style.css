@@ -14,9 +14,10 @@ html,body{
     margin:0;
 }
 
-.nav li{
+.nav li {
     display: inline;
     color: white;
+    font-weight: 700;
 }
 .Owner-name {
     color: white;
@@ -94,4 +95,19 @@ font-size: 3em;
 }
 .gameName{
     text-align: center;
+}
+.background {
+    background-image: url("Images/TextBorder.jpg");
+    background-size: cover;
+}
+.background2 {
+    background-image: url("Images/TextBorder2.jpg");
+    background-size: cover;
+}
+p {
+    text-align: justify;
+}
+
+.auto {
+    text-justify: auto;
 }
