@@ -115,3 +115,10 @@ p {
 .auto {
     text-justify: auto;
 }
+.Sections a {
+    display:table-row;
+    text-decoration: none
+}
+.Sections a:hover {
+    background-color: gray;
+}
