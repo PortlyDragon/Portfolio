@@ -95,7 +95,10 @@ font-size: 3em;
 }
 .gameName{
     text-align: center;
+    
 }
+
+
 .background {
     background-image: url("Images/TextBorder.jpg");
     background-size: cover;
